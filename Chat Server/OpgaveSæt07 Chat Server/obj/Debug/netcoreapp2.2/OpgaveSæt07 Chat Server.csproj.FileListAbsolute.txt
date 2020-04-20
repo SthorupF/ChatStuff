@@ -1,0 +1,11 @@
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\bin\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.deps.json
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\bin\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.runtimeconfig.json
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\bin\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.runtimeconfig.dev.json
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\bin\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.dll
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\bin\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.pdb
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\obj\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.csprojAssemblyReference.cache
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\obj\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.csproj.CoreCompileInputs.cache
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\obj\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.AssemblyInfoInputs.cache
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\obj\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.AssemblyInfo.cs
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\obj\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.dll
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Server\OpgaveSæt07 Chat Server\obj\Debug\netcoreapp2.2\OpgaveSæt07 Chat Server.pdb

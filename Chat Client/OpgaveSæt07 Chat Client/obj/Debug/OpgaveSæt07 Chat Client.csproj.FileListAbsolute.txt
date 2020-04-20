@@ -1,0 +1,15 @@
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\bin\Debug\OpgaveSæt07 Chat Client.exe.config
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\bin\Debug\OpgaveSæt07 Chat Client.exe
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\bin\Debug\OpgaveSæt07 Chat Client.pdb
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client.csprojAssemblyReference.cache
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\MainWindow.g.cs
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\App.g.cs
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client_MarkupCompile.cache
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client_MarkupCompile.lref
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\MainWindow.baml
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client.g.resources
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07_Chat_Client.Properties.Resources.resources
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client.csproj.GenerateResource.cache
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client.exe
+C:\Users\magnu\source\repos\OpgaveSæt07 Chat Client\OpgaveSæt07 Chat Client\obj\Debug\OpgaveSæt07 Chat Client.pdb
